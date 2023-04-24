@@ -1,7 +1,6 @@
 1. 👋 Hi, I’m @CoffeeAddictGuy
 2. 👀 I’m interested in programming, books, games, cartoons and TV series
 3. 🌱 I’m currently learning Python and CS
-4. ~~💞️ I’m looking to collaborate on ...~~ Now i just learning, sooo... Meh
 <!---
 5. 📫 How to reach me:
 + You can write me at - [Steam](https://steamcommunity.com/id/CoffeeAddictUwU)
